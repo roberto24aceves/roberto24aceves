@@ -81,5 +81,4 @@ En Parallax, nos especializamos en brindar servicios completos, desde la consult
 )
 ![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white
 )
-## Estadisticas de GitHub
-![Roberto Aceves GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto24aceves&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+
